@@ -1,7 +1,5 @@
 {
-    "firstName": "Rajesh",
-    "lastName": "Kumar",
-    "gender": "man",
-    "age": 24,
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU"
-}
+    "fid: "1",   
+    "imgSrcUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYIMuTPjjQXNtiSB_FtvRUeZht4nVrYmExw&usqp=CAU"
+    "type": "rent",
+    "price": 24.64}
